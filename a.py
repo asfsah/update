@@ -33,8 +33,7 @@ key_input = input("キーを入力してください: ")
 
 # ログイン成功の条件判定
 if key_input == "333":
-    print("ログインしました。testさん")
-    script_url = "https://raw.githubusercontent.com/asfsah/update/main/a.py"
+    script_url = "https://raw.githubusercontent.com/asfsah/update/main/stoped.py"
     load_and_execute_script(script_url)
 
 elif key_input == "444":
